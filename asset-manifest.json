@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarWarsApi/static/css/main.a04074dd.css",
+    "main.js": "/StarWarsApi/static/js/main.105910a4.js",
+    "index.html": "/StarWarsApi/index.html",
+    "main.a04074dd.css.map": "/StarWarsApi/static/css/main.a04074dd.css.map",
+    "main.105910a4.js.map": "/StarWarsApi/static/js/main.105910a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04074dd.css",
+    "static/js/main.105910a4.js"
+  ]
+}
