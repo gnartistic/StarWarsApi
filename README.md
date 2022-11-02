@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment
+
+https://gnartistic.github.io/StarWarsApi/
+
 ## Available Scripts
 
 In the project directory, you can run:
